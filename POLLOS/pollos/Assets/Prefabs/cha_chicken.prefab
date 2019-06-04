@@ -206,10 +206,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpSpeed: 400
   rb: {fileID: 897538382888295620}
-  jumps: 0
+  jumps: 2
   speed: 3
   sensitivity: 3
-  maxJumps: 1
+  maxJumps: 2
   audio_object: {fileID: 0}
   jumpClip: {fileID: 8300000, guid: 45f3bad8a462f53499ef21a61bb2a071, type: 3}
   landClip: {fileID: 8300000, guid: aeee1c805606ee84190886ca57204e10, type: 3}
